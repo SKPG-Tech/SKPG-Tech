@@ -6,7 +6,7 @@
 ## About Me
 Hi, I'm from Lithuania and I make YouTube Video.
 I use programming to give others the chance to learn something new.
-I'm LOVE C#. If I have the opportunity to make something using it, I will choose that route instantly. I have a few open-source projects, but wish to make more. That's my goal because I need to Inspire others.
+I'm LOVE C#. If I have the opportunity to make something using it, I will choose that route instantly. I have a few open-source projects, but wish to make more. That's my goal because I want to Inspire others.
 
 ## More Info
 - 🔭 I’m currently working on [YTVD-NuGet](https://github.com/SKPG-Tech/YTVD-NuGet).
