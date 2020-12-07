@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Salvijus K. - aka [SKPG](https://github.com/SKPG-Tech)
 
 [![Youtube](https://img.shields.io/badge/Check%20me%20out%20on-YouTube-red?style=for-the-badge&logo=youtube&color=red)](https://www.youtube.com/channel/UCElKMmyPWcM1iwYXV_TowXw)
-[![My Website](https://img.shields.io/badge/Take%20a%20look%20at-My%20Website-blue?style=for-the-badge&logo=&color=blue)](https://skpg-tech.tk) -=> UNDER DEVELOPMENT
+[![My Website](https://img.shields.io/badge/Take%20a%20look%20at-My%20Website-blue?style=for-the-badge&logo=&color=blue)](https://skpg-tech.tk) UNDER DEVELOPMENT
 
 ## About Me
 Hi, I'm from Lithuania and I make YouTube Video.
