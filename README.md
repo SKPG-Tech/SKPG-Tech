@@ -15,4 +15,4 @@ I'm LOVE C#. If I have the opportunity to make something using it, I will choose
 - ⚡ Fun fact, I started programming at 12 years old.
 
 ## My GitHub Stats
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SKPG-Tech&show_icons=true&hide_border=false" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SKPG-Tech&show_icons=true&hide_border=false&theme=tokyonight" />
